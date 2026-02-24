@@ -71,7 +71,3 @@ These insights can help companies design targeted marketing strategies and optim
 - Integrate real-time customer data
 - Build recommendation engine based on segments
 
----
-
-## 📎 Author
-Ahmed Dawod
